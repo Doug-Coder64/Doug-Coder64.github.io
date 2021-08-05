@@ -1,7 +1,17 @@
 h1 {
 text-align: center;
 padding: 10px;
-background-color:grey;
+background-color:black;
+color: white;
+}
+
+body {
+    background-color: bisque;
+}
+
+img{
+    float: left;
+    padding-right: 25px;
 }
 
 .container {
@@ -11,6 +21,7 @@ background-color:grey;
 #main-bio,
 #contact-info {
     width: 50%;
+    margin: auto;
 }
 
 #main-bio {
@@ -20,3 +31,4 @@ background-color:grey;
 #contact-info {
     float: right;
 }
+
