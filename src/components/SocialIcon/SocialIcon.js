@@ -50,15 +50,6 @@ function SocialIcon() {
             <FaGithub />
           </a>
         </li>
-        <li className="item">
-          <a
-            href="https://github.com/doug-coder64/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FaInstagram />
-          </a>
-        </li>
       </ul>
     </SocialDiv>
   );

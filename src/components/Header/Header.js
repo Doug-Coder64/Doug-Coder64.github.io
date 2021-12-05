@@ -5,12 +5,6 @@ const Header = ({ toggle }) => {
     return ( 
         <div className="Container">
             <Nav>
-                <Logo to="/">
-                    <img
-                        src=""
-                        alt="logo"
-                        />
-                </Logo>
                 <NavMenu>
                     <NavLink className="menu-item"  to="projects" smooth={true}>
                         Projects
