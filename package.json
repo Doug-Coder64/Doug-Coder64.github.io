@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Doug-Coder64/Doug-Coder64.github.io/issues"
   },
-  "homepage": "https://doug-coder64.github.io/my-app"
+  "homepage": "https://doug-coder64.github.io/my-app",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
